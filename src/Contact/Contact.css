@@ -1,0 +1,29 @@
+.heading{
+    text-align: center;
+        color: green;}
+    
+    .container-contact{
+        margin-top: 3rem;
+        text-align: center;
+        margin-bottom: 3rem;
+    }
+    .contact-form{
+        max-width: 50rem;
+        margin: auto ;
+    }
+    .contact-form .input-click{
+    width: 60px;
+    margin-top: 10px;
+    background-color: #66e368;
+    border-radius: 20px;
+    
+    }
+    .contact-form .input-click:hover{
+        background-color: red;
+    }
+    .contact-form form{
+       display: flex;
+       flex-direction: column;
+       
+    }
+    

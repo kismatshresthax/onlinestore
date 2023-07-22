@@ -1,0 +1,33 @@
+.home{
+    background-color:var( --card-color3);
+  }
+  .contentWidth {
+    width:90%;
+  }
+  .card .card-img{
+    padding-top: 10px;
+    width: 1200px;
+    height: 400px;
+    
+  }
+  
+  .card-img-overlay{
+    text-align: center;
+    margin-top: 15rem;
+  }
+    
+    .card div h1 .card-text{
+     
+      color: rgb(252, 252, 252) ;
+      
+      font-weight: bold;
+     
+  
+    }
+    .card span{
+      background-color: #fb292d;
+      padding: 15px 20px;
+      border-radius: 5px;
+      font-size: 20px;
+    }
+  
